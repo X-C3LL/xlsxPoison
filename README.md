@@ -14,6 +14,9 @@ In the end XLSX/XLSM  are just zip files that follows the Office Open XML file f
 5. Set original file as "hidden"
 6. Delete the temporal folder created
 
+
+*Disclaimer: I tested it with a bunch of random .xlsx files. If you find a .xlsx that get corrupted please ping me at issues*
+
 # Usage
 
 ```bash
